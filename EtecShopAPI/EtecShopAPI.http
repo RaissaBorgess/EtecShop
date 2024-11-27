@@ -1,0 +1,6 @@
+@EtecShopAPI_HostAddress = http://localhost:5181
+
+GET {{EtecShopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
